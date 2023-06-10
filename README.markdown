@@ -27,7 +27,6 @@ See: [https://jekyllrb.com/philosophy](https://jekyllrb.com/philosophy)
 * Have questions? Check out our official forum community [Jekyll Talk](https://talk.jekyllrb.com/) and [`#jekyll` Channel on Libera IRC](https://libera.chat)
 
 ## Diving In
-
 * [Migrate](https://import.jekyllrb.com/docs/home/) from your previous system
 * Learn how [Front Matter](https://jekyllrb.com/docs/front-matter/) works
 * Put information on your site with [Variables](https://jekyllrb.com/docs/variables/)
